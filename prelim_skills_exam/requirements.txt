@@ -1,0 +1,4 @@
+ansible
+apache
+nagios
+mysql-server
